@@ -3,3 +3,4 @@ numpy                 : 2.1.1
 pytz                  : 2024.2
 dateutil              : 2.9.0.post0
 pip                   : 24.2
+seaborn
